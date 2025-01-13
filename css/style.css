@@ -532,6 +532,7 @@ body{
    /* padding: 20rem; */
    background: red;
    margin: 100px;
+   padding: 2px;
 }
 
 .main{
